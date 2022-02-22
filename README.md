@@ -11,7 +11,7 @@
   C++ , C , Javascript , python
   
   <h5>Technologies</h5>
-  NodeJs , ReactJS , MongoDB ,Mongoose, ejs , Rest Api , SQL,web scraping,puppeteers
+  NodeJs , ReactJS , MongoDB ,Mongoose, ejs , Rest Api , SQL,Web Scraping,Puppeteers
   
   <h4>Tools</h4>
   Git , Github , VS Code,Atom, Heroku
