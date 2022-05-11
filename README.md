@@ -1,7 +1,7 @@
  <h2> Hello 👋 , I’m Vikas Yadav </h2>
  <h3>About me :mag_right:</h3>
   <p> I'm a programmer who enjoys problem-solving and tries to create something new</p>
-  <p> I’m interested in  AI and blockchain :open_file_folder: </p>
+<!--   <p> I’m interested in  AI and blockchain :open_file_folder: </p> -->
   <h3>Skills</h3>
   <p>
   <h4>Programming</h4> 
