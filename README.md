@@ -2,10 +2,15 @@
  <h3>About me :mag_right:</h3>
   <p> As a software engineer, I am passionate about finding a challenging and rewarding career in a dynamic environment. I aim to cultivate my strong sense of responsibility and contribute effectively to innovative projects. I am particularly interested in opportunities that promote continuous learning and teamwork, allowing me to expand my expertise in software development</p>
 <!--   <p> I’m interested in  AI and blockchain :open_file_folder: </p> -->
-  <h3>Skills</h3>
+  <h3>Technologies & Tools</h3>
   <p>
-  <h4>Programming</h4> 
-  Data Structures , Algorithms , Problem solving, Full-stack Web Developer
+ -Java, Spring Boot, Async Programming
+-Git, Postman
+-Microservices Architecture
+-Spunk Cloud
+-REST API's
+-Unit Testing best practices
+-Databases(PostgreSQL,Cassandra)
   
  <h4>Launguage</h4>
   C++ , C , Javascript , python
